@@ -58,3 +58,7 @@ FrequenciaDeSaveEmMinutos=1
 ```FrequenciaDeSaveEmMinutos=1``` define de quanto em quanto tempo o tempo o estado atual do CaveiraTimer será salvo automaticamente.
 
 Deletar o arquivo tempo.txt com o programa fechado implicará na perca do estado salvo, o programa irá gerar um novo tempo.txt ao detectar a ausência do mesmo.
+
+## 📜 Licença e Créditos
+O CaveiraTimer é distribuido gratuitamente sob a licença MIT, é permitido a modificação e a redistribuição desde que mantido os créditos ao autor (Srchronotrigger).
+Email para contato: [sr.chronotrigger@gmail.com](mailto:sr.chronotrigger@gmail.com)
