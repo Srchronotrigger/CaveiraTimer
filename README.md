@@ -1,3 +1,4 @@
 # CaveiraTimer
-A 2 in 1 timer and stopwatch for lives with the RenanPlay Channel's theme//
+A 2 in 1 timer and stopwatch for lives with the RenanPlay Channel's theme
+
 [**Clique aqui para instruções em Português**](https://github.com/Srchronotrigger/CaveiraTimer/blob/main/README_PT-BR.md)
