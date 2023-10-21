@@ -45,6 +45,14 @@ dias=0
 horasParaoFimDaLive=0
 FrequenciaDeSaveEmMinutos=1
  ```
-```segundos=0``` define os segundos no relógio ; ```minutos=0``` define os minutos no relógio ; ```horas=0``` define as horas no relógio ; ```dias=0``` define os dias no relógio ; ```horasParaoFimDaLive=0``` define as horas totais da live ; ```FrequenciaDeSaveEmMinutos=1``` define de quanto em quanto tempo o tempo o estado atual do CaveiraTimer será salvo automaticamente.
+```segundos=0``` define os segundos no relógio 
+
+```minutos=0``` define os minutos no relógio 
+
+```horas=0``` define as horas no relógio ; ```dias=0``` define os dias no relógio 
+
+```horasParaoFimDaLive=0``` define as horas totais da live 
+
+```FrequenciaDeSaveEmMinutos=1``` define de quanto em quanto tempo o tempo o estado atual do CaveiraTimer será salvo automaticamente.
 
 Deletar o arquivo tempo.txt com o programa fechado implicará na perca do estado salvo, o programa irá gerar um novo tempo.txt ao detectar a ausência do mesmo.
