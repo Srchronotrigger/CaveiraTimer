@@ -21,6 +21,14 @@ Ao clicar em um dos modos uma tela correspondente ao modo selecionado será exib
 
 (da esquerda para direita: Progressivo e Regressivo)
 
+## 🕹️ Controles
++ -> adiciona mais horas
+- -> subtrai horas
+Botões -> oculta/exibe a Barra de título do programa
+Visível -> ativa/desativa o modo sempre visível do programa
+Começar -> inicia o contador
+Pausar -> pausa o contador
+
 ## 📌 Arquivo tempo.txt
 O arquivo tempo.txt possui basicamente três funções: Salvar o tempo do relógio, Definir o tempo do relógio e Definir a Frequência de salvamento.
 o arquivo tempo.txt conterá os seguintes parâmetros ao ser iniciado pela primeira vez:
