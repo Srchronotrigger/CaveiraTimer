@@ -49,7 +49,9 @@ FrequenciaDeSaveEmMinutos=1
 
 ```minutos=0``` define os minutos no relógio 
 
-```horas=0``` define as horas no relógio ; ```dias=0``` define os dias no relógio 
+```horas=0``` define as horas no relógio 
+
+```dias=0``` define os dias no relógio 
 
 ```horasParaoFimDaLive=0``` define as horas totais da live 
 
