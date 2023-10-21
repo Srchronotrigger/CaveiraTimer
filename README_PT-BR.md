@@ -34,9 +34,9 @@ Ao clicar em um dos modos uma tela correspondente ao modo selecionado será exib
 
 ```Pausar``` pausa o contador
 
-## 📌 Arquivo tempo.txt
-O arquivo tempo.txt possui basicamente três funções: Salvar o tempo do relógio, Definir o tempo do relógio e Definir a Frequência de salvamento.
-o arquivo tempo.txt conterá os seguintes parâmetros ao ser iniciado pela primeira vez:
+## 📌 Arquivos tempo.txt e relatório da live.txt
+O arquivo "tempo.txt" possui basicamente três funções: Salvar o tempo do relógio, Definir o tempo do relógio e Definir a Frequência de salvamento.
+o arquivo "tempo.txt" conterá os seguintes parâmetros ao ser iniciado pela primeira vez:
 ```
 segundos=0
 minutos=0
@@ -58,6 +58,8 @@ FrequenciaDeSaveEmMinutos=1
 ```FrequenciaDeSaveEmMinutos=1``` define de quanto em quanto tempo o tempo o estado atual do CaveiraTimer será salvo automaticamente.
 
 Deletar o arquivo tempo.txt com o programa fechado implicará na perca do estado salvo, o programa irá gerar um novo tempo.txt ao detectar a ausência do mesmo.
+
+Ao término do contador do relógio um arquivo chamado "relatório da live.txt" será gerado, contendo o tempo total de live e os dias totais.
 
 ## 🕷️ Bugs conhecidos
 Por conta de uma caracterísitca do Java Swing o componente jPanel não consegue atualizar a janela enquanto minimizado, isso gera um bug visual no OBS de que o relógio "congelou", mas não é o caso, pois a Thread continua em funcionamento mesmo que minimizada o que faz o relógio retornar o tempo correto ao maximizar novamente, uma forma de contornar isso é simplesmente não minimizando a janela ou clicando em outra para dessa maneira a janela do CaveiraTimer ficar em segundo plano.
