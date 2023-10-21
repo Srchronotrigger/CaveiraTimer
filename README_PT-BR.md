@@ -18,4 +18,5 @@ Após a instalação do Java 8 não é necessário mais nenhuma intervenção ou
 Ao clicar em um dos modos uma tela correspondente ao modo selecionado será exibida, sendo um cronômetro para para progressivo e um temporizador para regressivo:
 
 [![Caveira-Timer.png](https://i.postimg.cc/rwbB7Yg5/Caveira-Timer.png)](https://postimg.cc/PCWVwygq)
+
 (da esquerda para direita: Progressivo e Regressivo)
