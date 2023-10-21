@@ -59,6 +59,9 @@ FrequenciaDeSaveEmMinutos=1
 
 Deletar o arquivo tempo.txt com o programa fechado implicará na perca do estado salvo, o programa irá gerar um novo tempo.txt ao detectar a ausência do mesmo.
 
+## 🕷️ Bugs conhecidos
+Por conta de uma caracterísitca do Java Swing o componente jPanel não consegue atualizar a janela enquanto minimizado, isso gera um bug visual no OBS de que o relógio "congelou", mas não é o caso, pois a Thread continua em funcionamento mesmo que minimizada o que faz o relógio retornar o tempo correto ao maximizar novamente, uma forma de contornar isso é simplesmente não minimizando a janela ou clicando em outra para dessa maneira a janela do CaveiraTimer ficar em segundo plano.
+
 ## 📜 Licença e Créditos
 O CaveiraTimer é distribuido gratuitamente sob a licença MIT, é permitido a modificação e a redistribuição desde que mantido os créditos ao autor (Srchronotrigger).
 Email para contato: [sr.chronotrigger@gmail.com](mailto:sr.chronotrigger@gmail.com)
