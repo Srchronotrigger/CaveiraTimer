@@ -11,6 +11,11 @@ O CaveiraTimar é baseado no JDK 8 do Java, portanto é preciso ter o Java 8 ou 
 
 [https://www.java.com/pt-BR/download/ie_manual.jsp](https://www.java.com/pt-BR/download/ie_manual.jsp)
 
-Após a instalação do Java 8 não é necessário mais nenhuma intervenção ou configuração extra, basta um clique duplo em cima do arquivo CaveiraTimer.jar, a instalação do Java deve bastar para o funcionamento do CaveiraTimer e a tela de seleção de modo deve ser exibida:
+Após a instalação do Java 8 não é necessário mais nenhuma intervenção ou configuração extra, basta um clique duplo em cima do arquivo "CaveiraTimer.jar", a instalação do Java deve bastar para o funcionamento do CaveiraTimer e a tela de seleção de modo deve ser exibida:
 
 [![Tela de seleção](https://i.postimg.cc/jSG2xcZr/Screenshot-2.png)](https://postimg.cc/QFJhSp26)
+
+Ao clicar em um dos modos uma tela correspondente ao modo selecionado será exibida, sendo um cronômetro para para progressivo e um temporizador para regressivo:
+
+[![Caveira-Timer.png](https://i.postimg.cc/rwbB7Yg5/Caveira-Timer.png)](https://postimg.cc/PCWVwygq)
+(da esquerda para direita: Progressivo e Regressivo)
