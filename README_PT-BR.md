@@ -62,3 +62,4 @@ Deletar o arquivo tempo.txt com o programa fechado implicará na perca do estado
 ## 📜 Licença e Créditos
 O CaveiraTimer é distribuido gratuitamente sob a licença MIT, é permitido a modificação e a redistribuição desde que mantido os créditos ao autor (Srchronotrigger).
 Email para contato: [sr.chronotrigger@gmail.com](mailto:sr.chronotrigger@gmail.com)
+fonte alarm_clock.ttf por David J Patterson. Disponível em: [https://www.dafont.com/pt/alarm-clock.font](https://www.dafont.com/pt/alarm-clock.font)
