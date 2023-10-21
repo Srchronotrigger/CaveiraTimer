@@ -8,4 +8,4 @@ O CaveiraTimer é um cronômetro e temporizador que foi criado com o propósito 
 
 ## 🛠️ Pré-requisitos e instalação
 O CaveiraTimar é baseado no JDK 8 do Java, portanto é preciso ter o Java 8 ou superior instalado para executar o software, o Java 8 pode ser obtido no site oficial da Oracle:
-```(https://www.java.com/pt-BR/download/ie_manual.jsp)```
+```[https://www.java.com/pt-BR/download/ie_manual.jsp](https://www.java.com/pt-BR/download/ie_manual.jsp)```
