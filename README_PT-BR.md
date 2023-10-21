@@ -20,3 +20,18 @@ Ao clicar em um dos modos uma tela correspondente ao modo selecionado será exib
 [![Caveira-Timer.png](https://i.postimg.cc/rwbB7Yg5/Caveira-Timer.png)](https://postimg.cc/PCWVwygq)
 
 (da esquerda para direita: Progressivo e Regressivo)
+
+## 📌 Arquivo tempo.txt
+O arquivo tempo.txt possui basicamente três funções: Salvar o tempo do relógio, Definir o tempo do relógio e Definir a Frequência de salvamento.
+o arquivo tempo.txt conterá os seguintes parâmetros ao ser iniciado pela primeira vez:
+```
+segundos=0
+minutos=0
+horas=0
+dias=0
+horasParaoFimDaLive=0
+FrequenciaDeSaveEmMinutos=1
+ ```
+```segundos=0``` define os segundos no relógio ; ```minutos=0``` define os minutos no relógio ; ```horas=0``` define as horas no relógio ; ```dias=0``` define os dias no relógio ; ```horasParaoFimDaLive=0``` define as horas totais da live ; ```FrequenciaDeSaveEmMinutos=1``` define de quanto em quanto tempo o tempo o estado atual do CaveiraTimer será salvo automaticamente.
+
+Deletar o arquivo tempo.txt com o programa fechado implicará na perca do estado salvo, o programa irá gerar um novo tempo.txt ao detectar a ausência do mesmo.
