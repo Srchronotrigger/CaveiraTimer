@@ -68,8 +68,10 @@ A cor do chorma key deve ser ```#666666``` em hexadecimal. A janela do CaveiraTi
 
 Demonstração do programa:
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ne2iFiPhuUQ" frameborder="0" allowfullscreen></iframe>
+[![Modo Progressivo](https://img.youtube.com/vi/Ne2iFiPhuUQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ne2iFiPhuUQ)
 (Modo Progressivo)
 <iframe width="560" height="315" src="[https://www.youtube.com/watch?v=1_HSyiPYsi0" frameborder="0" allowfullscreen></iframe>
+[![Modo Regressivo](https://img.youtube.com/vi/1_HSyiPYsi0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ne2iFiPhuUQ)
 (Modo Regressivo)
 
 
