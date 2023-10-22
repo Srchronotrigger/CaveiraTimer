@@ -64,12 +64,16 @@ Ao término do contador do relógio um arquivo chamado "relatório da live.txt" 
 ## 🤖 Configuração no OBS
 Para utilizar no OBS é bem simples, basta criar uma nova captura de janela e selecionar o CaveiraTimer na lista, após isso se adiciona um filtro de chroma key com as seguintes configurações:
 [![filtro.png](https://i.postimg.cc/mrTgSzTh/filtro.png)](https://postimg.cc/sM0zj2QR)
+
 A cor do chorma key deve ser ```#666666``` em hexadecimal. A janela do CaveiraTimer é redimensionavel, podendo ajustar tanto ela como pelo overlay do OBS.
 
 Demonstração do programa:
+
 (Modo Progressivo)
+
 [![Modo Progressivo](https://img.youtube.com/vi/Ne2iFiPhuUQ/0.jpg)](https://www.youtube.com/watch?v=Ne2iFiPhuUQ)
 (Modo Regressivo)
+
 [![Modo Regressivo](https://img.youtube.com/vi/1_HSyiPYsi0/0.jpg)](https://www.youtube.com/watch?v=1_HSyiPYsi0)
 
 
