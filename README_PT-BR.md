@@ -67,10 +67,11 @@ Para utilizar no OBS é bem simples, basta criar uma nova captura de janela e se
 A cor do chorma key deve ser ```#666666``` em hexadecimal. A janela do CaveiraTimer é redimensionavel, podendo ajustar tanto ela como pelo overlay do OBS.
 
 Demonstração do programa:
-[![Modo Progressivo](https://img.youtube.com/vi/Ne2iFiPhuUQ/0.jpg)](https://www.youtube.com/watch?v=Ne2iFiPhuUQ)
 (Modo Progressivo)
-[![Modo Regressivo](https://img.youtube.com/vi/1_HSyiPYsi0/0.jpg)](https://www.youtube.com/watch?v=1_HSyiPYsi0)
+[![Modo Progressivo](https://img.youtube.com/vi/Ne2iFiPhuUQ/0.jpg)](https://www.youtube.com/watch?v=Ne2iFiPhuUQ)
 (Modo Regressivo)
+[![Modo Regressivo](https://img.youtube.com/vi/1_HSyiPYsi0/0.jpg)](https://www.youtube.com/watch?v=1_HSyiPYsi0)
+
 
 
 
